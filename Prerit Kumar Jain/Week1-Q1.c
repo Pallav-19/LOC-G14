@@ -1,6 +1,6 @@
-// Write a C program to display your basic information like name, regd no. (only last 3
-// digits), branch and your hobbies.
-
+/* Write a C program to display your basic information like name, regd no. (only last 3
+ digits), branch and your hobbies.
+ (In this question, you’ll learn how to take an input and display a string and an integer.)*/
 #include<stdio.h>
 #include<string.h>
 

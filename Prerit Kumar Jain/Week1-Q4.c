@@ -1,3 +1,5 @@
+/* Write a C program to enter two numbers and perform all arithmetic operations using
+ switch case.*/
 #include<stdio.h>
 
 int main()
