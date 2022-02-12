@@ -5,7 +5,7 @@
 int main()
 {
     int a,b;
-    printf("Enter a number : ");
+    printf("Enter a positive number : ");
     scanf("%d",&a);
     b=a%2;
     switch(b)
